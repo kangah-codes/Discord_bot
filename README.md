@@ -29,5 +29,7 @@ The 10% ignored and other minor mistakes from the bot should help in making it l
 a human is performing the operations and make your account less suspicious ;)
 
 ### PS:
+- Pokeverse sends out random captchas which you will have to do yourself otherwise
+you won't be able to use any pokeverse commands.
 - The bot is in its early stages and may still have some bugs here and there. Feel free to contact
  me if you encounter any problems or are unclear about something: <i>tpandivine48@gmail.com</i>

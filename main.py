@@ -289,7 +289,8 @@ class DankMemer:
                        '2020_lost_event.png': '2020 get lost', 'big_f_event.png': 'big f',
                        'aTrivia_event.png': TRIVIA_LIST[rand_num], 'wear_mask_event.png': 'wear a mask',
                        'vine_ripoff_event.png': 'vine ripoff', 'mobile_best_event.png': 'mobile is best!',
-                       'xbox_best_event.png': 'xbox is best!', 'dance_event.png': 'dance'
+                       'xbox_best_event.png': 'xbox is best!', 'dance_event.png': 'dance',
+                       'swiss_event.png': 'swiss'
                        }
 
     # Paths for Dank Memer specific stuff
