@@ -25,6 +25,8 @@ also issue updates to events so watch out.
 - Bot may need to be babysat as some events from the discord games bots occur too fast  and often get 
 out of the display region for this bot to keep track of... but assuredly, this bot can capture 90% of events
  and respond correctly to them.
+ Also, the discord games bots sometimes lag and even discord itself lags, and if this bot is not stopped, you might
+ end up getting rate-limited.
 The 10% ignored and other minor mistakes from the bot should help in making it look like
 a human is performing the operations and make your account less suspicious ;)
 
