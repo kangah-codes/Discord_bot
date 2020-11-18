@@ -426,7 +426,7 @@ class DankMemer:
             pass
             print('No dragon event found.')
         else:
-            for item in os.listdir(path.join(self.DRAGON_PATH, 'drag_type')):
+            for item in os.listdir(path.join(self.DRAGON_TYPE_PATH)):
                 doj = pyautogui.locateOnScreen(path.join(self.DRAGON_TYPE_PATH, item), confidence=0.8)
                 if doj is None:
                     continue

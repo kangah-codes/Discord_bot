@@ -7,6 +7,7 @@ and responding to events as they unfold in real-time.
 ## REQUIREMENTS:
 - Install [pyautogui](https://pypi.python.org/pypi/PyAutoGui) module and possibly read the 
 [documentation](https://pyautogui.readthedocs.org) to understand how it works.
+- Need to have prior knowledge on how discord works.
 - Need to have a [Discord](https://discord.com) account.
 - Need to have a [Discord](https://discord.com) server.
 - Need to have <b>specific channels</b> in server for bot to use.
